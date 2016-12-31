@@ -14,5 +14,5 @@ I hope that you find these solutions to be either helpful, or informative. Even 
 
 Thanks for dropping by,
 
-- Charles E. Morgan
+Charles E. Morgan
 webdevdaemon@gmail.com
